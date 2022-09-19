@@ -1187,6 +1187,42 @@ Espero que você tenha um bom proveito com o conteúdo aqui, segue meu github, c
 🔖 [Git School](https://git-school.github.io/visualizing-git/) <br>
 🔖 [Git Flow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/) <br>
 
+## 📚 Para aprender programação 
+
+| Topic | Date |
+| :---: | :---: |   
+| [25 jogos para aprender programação](https://www.linkedin.com/pulse/25-jogos-para-aprender-programa%C3%A7%C3%A3o-leticia-coelho/) | 09/2022 |    
+| [8 Dicas para facilitar o onboarding Dev em projetos](https://www.linkedin.com/pulse/8-dicas-para-facilitar-o-onboarding-dev-em-projetos-leticia-coelho/) | 09/2022 |
+| [10 projetos back-end para implementar e ter um portfólio que vai além do CRUD](https://www.linkedin.com/pulse/10-projetos-back-end-para-implementar-e-ter-um-portf%C3%B3lio-coelho/) | 07/2022 |
+| [5 tarefas que você precisa fazer antes dos testes de fit cultural](https://www.linkedin.com/pulse/5-tarefas-que-voc%C3%AA-precisa-fazer-antes-dos-testes-de-fit-coelho/) | 07/2022 |
+| [✨ 40 FERRAMENTAS para aprender a programar usando o celular](https://www.linkedin.com/pulse/40-ferramentas-para-aprender-programar-usando-o-celular-coelho/) | 05/2022 |
+| [✨ 21 FERRAMENTAS que ajudam a fazer documentação de software](https://www.linkedin.com/pulse/21-ferramentas-que-ajudam-fazer-documenta%C3%A7%C3%A3o-de-software-coelho/) | 04/2022 |      
+| [14 dicas para ir bem em testes técnicos de projeto](https://www.linkedin.com/pulse/14-dicas-para-ir-bem-em-testes-t%C3%A9cnicos-de-projeto-leticia-coelho/) | 04/2021 |
+| [💡 12 DICAS que vão te ajudar nos testes técnicos práticos acompanhados (Hands-On)](https://www.linkedin.com/pulse/12-dicas-que-v%C3%A3o-te-ajudar-nos-testes-t%C3%A9cnicos-pr%C3%A1ticos-coelho/) | 04/2021 |
+| [⭐ 20 PERGUNTAS QUE VOCÊ PRECISA saber responder nas entrevistas técnicas](https://www.linkedin.com/pulse/20-perguntas-que-voc%C3%AA-precisa-saber-responder-nas-t%C3%A9cnicas-coelho/) | 04/2021 |
+| [⭐ 20 PERGUNTAS PARA FAZER nas entrevistas técnicas](https://www.linkedin.com/pulse/20-perguntas-para-fazer-nas-entrevistas-t%C3%A9cnicas-leticia-coelho/) | 04/2021 |
+| [80 ideias de projetos para usar no seu portfolio](https://www.linkedin.com/pulse/80-ideias-de-projetos-para-usar-seu-portfolio-leticia-coelho/) | 04/2021 |
+| [8 Motivos que fazem você não passar para uma vaga tech](https://www.linkedin.com/pulse/8-motivos-que-fazem-voc%C3%AA-n%C3%A3o-passar-para-uma-vaga-tech-coelho/) | 04/2021 |
+| [Fazer ou não fazer faculdade para trabalhar na área de tecnologia?](https://www.linkedin.com/pulse/fazer-ou-n%C3%A3o-faculdade-para-trabalhar-na-%C3%A1rea-t%C3%A9cnica-coelho/) | 03/2022 | 
+| [O dia-a-dia dos devs. Quais são as principais reuniões ?](https://www.linkedin.com/pulse/o-dia-a-dia-dos-devs-quais-s%C3%A3o-principais-reuni%C3%B5es-leticia-coelho/) | 01/2022 |    
+| [Como debater ideias de forma produtiva. No trabalho ou no Linkedin](https://www.linkedin.com/pulse/como-debater-ideias-de-forma-produtiva-trabalho-ou-linkedin-coelho/) | 10/2021 |
+| [Dicas para conseguir seu primeiro emprego como Dev](https://www.linkedin.com/pulse/dicas-para-conseguir-seu-primeiro-emprego-como-dev-leticia-coelho/) | 10/2021 |  
+| [O Facebook quebrou? Uma abordagem para pessoas não técnicas](https://www.linkedin.com/pulse/o-facebook-quebrou-uma-abordagem-para-pessoas-n%C3%A3o-t%C3%A9cnicas-coelho/) | 10/2021 | 
+| [Dicas para conseguir seu primeiro emprego como Dev](https://www.linkedin.com/pulse/dicas-para-conseguir-seu-primeiro-emprego-como-dev-leticia-coelho/) | 10/2021 |
+| [8 Dicas para facilitar o onboarding Dev em projetos](https://www.linkedin.com/pulse/8-dicas-para-facilitar-o-onboarding-dev-em-projetos-leticia-coelho/) | 09/2021 |
+| [Dicas de dev para você escolher o melhor framework](https://medium.com/arctouch/dicas-de-dev-para-voc%C3%AA-escolher-o-melhor-framework-5f4c6e7cfe55) | 09/2021 |
+| [6 Boas práticas para utilizar no code review](https://www.linkedin.com/pulse/6-boas-pr%C3%A1ticas-para-utilizar-code-review-leticia-coelho/) | 09/2021 |
+| [Boas práticas para GIT](https://www.linkedin.com/pulse/boas-pr%C3%A1ticas-para-git-leticia-coelho/) | 07/2021 |
+| [Os 2 erros mais comuns no desenvolvimento de softwares. Será que você já cometeu algum deles?](https://leticiarabbit.medium.com/os-2-erros-mais-comuns-no-desenvolvimento-de-softwares-ser%C3%A1-que-voc%C3%AA-j%C3%A1-cometeu-algum-deles-5637a143ed54) | 06/2021 |
+| [Refactoring Cycle para projetos sem tempo para refactoring](https://leticiarabbit.medium.com/refactoring-cycle-para-projetos-sem-tempo-para-refactoring-e74e27d2187b) | 06/2021 |
+| [Documentação técnica](https://leticiarabbit.medium.com/documenta%C3%A7%C3%A3o-t%C3%A9cnica-ce263eca6803) | 03/2021 |
+| [Resumo de comandos Git](https://leticiarabbit.medium.com/resumo-de-comandos-git-87e7c3a2b25e) | 03/2021 |  
+| [Clean Code — Code Smells](https://leticiarabbit.medium.com/clean-code-code-smells-6931cfc4eff4) | 03/2021 |  
+| [Empresa de produto ou consultoria, qual é o melhor para sua carreira?](https://medium.com/arctouch/empresa-de-produto-ou-consultoria-qual-%C3%A9-o-melhor-para-sua-carreira-5ff0bb43fe16) | 02/2021 |    
+| [O agro é Pop, mas ainda não é Tech.](https://www.linkedin.com/pulse/o-agro-%C3%A9-pop-mas-ainda-n%C3%A3o-tech-leticia-coelho/) | 11/2019 |
+| [Aquitetura IoT - Um visão em camadas](https://www.linkedin.com/pulse/aquitetura-iot-um-vis%C3%A3o-em-camadas-leticia-coelho/) | 08/2019 |  
+
+
 ls (Listar as pastas) <br>
 cd .. (voltar um diretório) <br>
 CD: <br>
@@ -1267,7 +1303,6 @@ git branch -r | egrep -v -f /dev/fd/0 <(git branch -vv | grep origin | grep -v "
 
 Deletando todos branches no repositório local (exceto a master): <br>
 git branch | grep -v "master" | xargs git branch -D <br>
-
 
 
 
